@@ -202,4 +202,4 @@ const byLanguage = async (lang = 'raw', page = 1, orderBy = 'date', order = 'des
 }
 
 
-module.exports = { quotes, latest, search, serie, episode, allSeries, allGenres, allPosts, byLanguage }
+module.exports = { latest, search, serie, episode, allSeries, allGenres, allPosts, byLanguage }
